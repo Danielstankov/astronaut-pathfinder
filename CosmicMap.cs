@@ -123,7 +123,14 @@ namespace Astronauts
 
             if (!File.Exists(path))
             {
-                throw new ArgumentException($"File not found: {path}");
+                string mapsPath = Path.Combine("Maps", path);
+
+                if (!File.Exists(mapsPath))
+                {
+                    throw new ArgumentException($"File not found: {path}");
+                }
+
+                path = mapsPath;
             }
 
             string[] lines = File.ReadAllLines(path);

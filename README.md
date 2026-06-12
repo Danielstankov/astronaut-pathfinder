@@ -4,7 +4,7 @@ This is a console application built for the SPACE 2026 task. It reads a grid con
 
 ## Running it
 
-The project targets .NET 10. Run it with `dotnet run`, and it will ask for the path to a map file, for example `demo_tall.txt`. Once you enter a valid path, it prints the results straight away.
+The project targets .NET 10. Run it with `dotnet run`, and it will ask for the path to a map file. You can enter a full path like `Maps/demo_tall.txt`, or just the file name, e.g. `demo_tall.txt`, and it will be looked up inside the `Maps` folder automatically. Once you enter a valid path, it prints the results straight away.
 
 ## Why a map file instead of typing the grid in
 
