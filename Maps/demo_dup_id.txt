@@ -1,0 +1,3 @@
+S1 O F
+O X O
+S1 O O

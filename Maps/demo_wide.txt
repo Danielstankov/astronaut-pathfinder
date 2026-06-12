@@ -1,0 +1,6 @@
+S3 O O O O O O O O O O O O F
+O X X X O X X X X X X X X X
+O O O O O O S2 O O O O O O O
+X X X X X X Y X X X X X X O
+O O O O O O S3 O O O O O O O
+O O O O O O O O O O O O O O

@@ -1,0 +1,5 @@
+S1 X O O O
+X X O O S2
+O O O O O
+O O O O O
+O O O F S3

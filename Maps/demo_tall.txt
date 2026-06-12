@@ -1,0 +1,14 @@
+S1 O O O O S3
+X X X X O O
+O X O X O O
+O X O X O O
+O X O X O O
+O X O X O O
+O X S2 X O O
+O X O X O O
+O X O X O O
+O X O X O O
+O X O X O O
+O X O X O O
+O X O X O O
+F O O O O O
